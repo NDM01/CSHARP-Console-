@@ -1,0 +1,6 @@
+D:\psi\C#\algoritmo_media\algoritmo_media\bin\Debug\algoritmo_media.exe.config
+D:\psi\C#\algoritmo_media\algoritmo_media\bin\Debug\algoritmo_media.exe
+D:\psi\C#\algoritmo_media\algoritmo_media\bin\Debug\algoritmo_media.pdb
+D:\psi\C#\algoritmo_media\algoritmo_media\obj\Debug\algoritmo_media.csproj.CoreCompileInputs.cache
+D:\psi\C#\algoritmo_media\algoritmo_media\obj\Debug\algoritmo_media.exe
+D:\psi\C#\algoritmo_media\algoritmo_media\obj\Debug\algoritmo_media.pdb

@@ -1,0 +1,6 @@
+D:\psi\C#\euros_para_dolares\euros_para_dolares\bin\Debug\euros_para_dolares.exe.config
+D:\psi\C#\euros_para_dolares\euros_para_dolares\bin\Debug\euros_para_dolares.exe
+D:\psi\C#\euros_para_dolares\euros_para_dolares\bin\Debug\euros_para_dolares.pdb
+D:\psi\C#\euros_para_dolares\euros_para_dolares\obj\Debug\euros_para_dolares.csproj.CoreCompileInputs.cache
+D:\psi\C#\euros_para_dolares\euros_para_dolares\obj\Debug\euros_para_dolares.exe
+D:\psi\C#\euros_para_dolares\euros_para_dolares\obj\Debug\euros_para_dolares.pdb

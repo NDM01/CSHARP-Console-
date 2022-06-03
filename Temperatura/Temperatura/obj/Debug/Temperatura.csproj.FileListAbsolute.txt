@@ -1,0 +1,13 @@
+D:\psi\C#\Temperatura\Temperatura\bin\Debug\Temperatura.exe.config
+D:\psi\C#\Temperatura\Temperatura\bin\Debug\Temperatura.exe
+D:\psi\C#\Temperatura\Temperatura\bin\Debug\Temperatura.pdb
+D:\psi\C#\Temperatura\Temperatura\obj\Debug\Temperatura.csproj.CoreCompileInputs.cache
+D:\psi\C#\Temperatura\Temperatura\obj\Debug\Temperatura.exe
+D:\psi\C#\Temperatura\Temperatura\obj\Debug\Temperatura.pdb
+D:\PSI\C# (Consola)\Temperatura\Temperatura\bin\Debug\Temperatura.exe.config
+D:\PSI\C# (Consola)\Temperatura\Temperatura\bin\Debug\Temperatura.exe
+D:\PSI\C# (Consola)\Temperatura\Temperatura\bin\Debug\Temperatura.pdb
+D:\PSI\C# (Consola)\Temperatura\Temperatura\obj\Debug\Temperatura.csprojAssemblyReference.cache
+D:\PSI\C# (Consola)\Temperatura\Temperatura\obj\Debug\Temperatura.csproj.CoreCompileInputs.cache
+D:\PSI\C# (Consola)\Temperatura\Temperatura\obj\Debug\Temperatura.exe
+D:\PSI\C# (Consola)\Temperatura\Temperatura\obj\Debug\Temperatura.pdb

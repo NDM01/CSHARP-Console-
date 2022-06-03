@@ -1,0 +1,7 @@
+D:\psi\C#\nºhoras\nºhoras\obj\Debug\nºhoras.csprojAssemblyReference.cache
+D:\psi\C#\nºhoras\nºhoras\obj\Debug\nºhoras.csproj.CoreCompileInputs.cache
+D:\psi\C#\nºhoras\nºhoras\bin\Debug\nºhoras.exe.config
+D:\psi\C#\nºhoras\nºhoras\bin\Debug\nºhoras.exe
+D:\psi\C#\nºhoras\nºhoras\bin\Debug\nºhoras.pdb
+D:\psi\C#\nºhoras\nºhoras\obj\Debug\nºhoras.exe
+D:\psi\C#\nºhoras\nºhoras\obj\Debug\nºhoras.pdb

@@ -1,0 +1,6 @@
+D:\psi\C#\Produto_Soma\Produto_Soma\bin\Debug\Produto_Soma.exe.config
+D:\psi\C#\Produto_Soma\Produto_Soma\bin\Debug\Produto_Soma.exe
+D:\psi\C#\Produto_Soma\Produto_Soma\bin\Debug\Produto_Soma.pdb
+D:\psi\C#\Produto_Soma\Produto_Soma\obj\Debug\Produto_Soma.csproj.CoreCompileInputs.cache
+D:\psi\C#\Produto_Soma\Produto_Soma\obj\Debug\Produto_Soma.exe
+D:\psi\C#\Produto_Soma\Produto_Soma\obj\Debug\Produto_Soma.pdb

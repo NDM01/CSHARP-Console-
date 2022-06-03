@@ -1,0 +1,6 @@
+D:\psi\C#\base e altura de um triangulo\base e altura de um triangulo\bin\Debug\base e altura de um triangulo.exe.config
+D:\psi\C#\base e altura de um triangulo\base e altura de um triangulo\bin\Debug\base e altura de um triangulo.exe
+D:\psi\C#\base e altura de um triangulo\base e altura de um triangulo\bin\Debug\base e altura de um triangulo.pdb
+D:\psi\C#\base e altura de um triangulo\base e altura de um triangulo\obj\Debug\base e altura de um triangulo.csproj.CoreCompileInputs.cache
+D:\psi\C#\base e altura de um triangulo\base e altura de um triangulo\obj\Debug\base e altura de um triangulo.exe
+D:\psi\C#\base e altura de um triangulo\base e altura de um triangulo\obj\Debug\base e altura de um triangulo.pdb

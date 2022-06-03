@@ -1,0 +1,6 @@
+D:\psi\C#\Prestações\Prestações\bin\Debug\Prestações.exe.config
+D:\psi\C#\Prestações\Prestações\bin\Debug\Prestações.exe
+D:\psi\C#\Prestações\Prestações\bin\Debug\Prestações.pdb
+D:\psi\C#\Prestações\Prestações\obj\Debug\Prestações.csproj.CoreCompileInputs.cache
+D:\psi\C#\Prestações\Prestações\obj\Debug\Prestações.exe
+D:\psi\C#\Prestações\Prestações\obj\Debug\Prestações.pdb

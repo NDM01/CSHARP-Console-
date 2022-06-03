@@ -1,0 +1,7 @@
+D:\_\psi\C#\Exercicio_Teste\Exercicio_Teste\bin\Debug\Exercicio_Teste.exe.config
+D:\_\psi\C#\Exercicio_Teste\Exercicio_Teste\bin\Debug\Exercicio_Teste.exe
+D:\_\psi\C#\Exercicio_Teste\Exercicio_Teste\bin\Debug\Exercicio_Teste.pdb
+D:\_\psi\C#\Exercicio_Teste\Exercicio_Teste\obj\Debug\Exercicio_Teste.csprojAssemblyReference.cache
+D:\_\psi\C#\Exercicio_Teste\Exercicio_Teste\obj\Debug\Exercicio_Teste.csproj.CoreCompileInputs.cache
+D:\_\psi\C#\Exercicio_Teste\Exercicio_Teste\obj\Debug\Exercicio_Teste.exe
+D:\_\psi\C#\Exercicio_Teste\Exercicio_Teste\obj\Debug\Exercicio_Teste.pdb

@@ -1,0 +1,6 @@
+D:\psi\C#\Nota\Nota\bin\Debug\Nota.exe.config
+D:\psi\C#\Nota\Nota\bin\Debug\Nota.exe
+D:\psi\C#\Nota\Nota\bin\Debug\Nota.pdb
+D:\psi\C#\Nota\Nota\obj\Debug\Nota.csproj.CoreCompileInputs.cache
+D:\psi\C#\Nota\Nota\obj\Debug\Nota.exe
+D:\psi\C#\Nota\Nota\obj\Debug\Nota.pdb

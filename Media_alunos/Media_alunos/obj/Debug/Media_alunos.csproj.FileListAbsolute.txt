@@ -1,0 +1,7 @@
+D:\psi\C#\Media_alunos\Media_alunos\bin\Debug\Media_alunos.exe.config
+D:\psi\C#\Media_alunos\Media_alunos\bin\Debug\Media_alunos.exe
+D:\psi\C#\Media_alunos\Media_alunos\bin\Debug\Media_alunos.pdb
+D:\psi\C#\Media_alunos\Media_alunos\obj\Debug\Media_alunos.csprojAssemblyReference.cache
+D:\psi\C#\Media_alunos\Media_alunos\obj\Debug\Media_alunos.csproj.CoreCompileInputs.cache
+D:\psi\C#\Media_alunos\Media_alunos\obj\Debug\Media_alunos.exe
+D:\psi\C#\Media_alunos\Media_alunos\obj\Debug\Media_alunos.pdb

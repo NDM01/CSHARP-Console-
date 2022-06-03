@@ -1,0 +1,6 @@
+D:\psi\C#\Raio de um círculo\Raio de um círculo\bin\Debug\Raio de um círculo.exe.config
+D:\psi\C#\Raio de um círculo\Raio de um círculo\bin\Debug\Raio de um círculo.exe
+D:\psi\C#\Raio de um círculo\Raio de um círculo\bin\Debug\Raio de um círculo.pdb
+D:\psi\C#\Raio de um círculo\Raio de um círculo\obj\Debug\Raio de um círculo.csproj.CoreCompileInputs.cache
+D:\psi\C#\Raio de um círculo\Raio de um círculo\obj\Debug\Raio de um círculo.exe
+D:\psi\C#\Raio de um círculo\Raio de um círculo\obj\Debug\Raio de um círculo.pdb

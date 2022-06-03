@@ -1,0 +1,6 @@
+D:\_\psi\C#\Algoritmo_fumadores\Algoritmo_fumadores\bin\Debug\Algoritmo_fumadores.exe.config
+D:\_\psi\C#\Algoritmo_fumadores\Algoritmo_fumadores\bin\Debug\Algoritmo_fumadores.exe
+D:\_\psi\C#\Algoritmo_fumadores\Algoritmo_fumadores\bin\Debug\Algoritmo_fumadores.pdb
+D:\_\psi\C#\Algoritmo_fumadores\Algoritmo_fumadores\obj\Debug\Algoritmo_fumadores.csprojResolveAssemblyReference.cache
+D:\_\psi\C#\Algoritmo_fumadores\Algoritmo_fumadores\obj\Debug\Algoritmo_fumadores.exe
+D:\_\psi\C#\Algoritmo_fumadores\Algoritmo_fumadores\obj\Debug\Algoritmo_fumadores.pdb

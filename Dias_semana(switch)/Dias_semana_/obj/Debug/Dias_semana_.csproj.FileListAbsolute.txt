@@ -1,0 +1,7 @@
+D:\psi\C#\Dias_semana_\Dias_semana_\obj\Debug\Dias_semana_.csprojAssemblyReference.cache
+D:\psi\C#\Dias_semana_\Dias_semana_\obj\Debug\Dias_semana_.csproj.CoreCompileInputs.cache
+D:\psi\C#\Dias_semana_\Dias_semana_\bin\Debug\Dias_semana_.exe.config
+D:\psi\C#\Dias_semana_\Dias_semana_\bin\Debug\Dias_semana_.exe
+D:\psi\C#\Dias_semana_\Dias_semana_\bin\Debug\Dias_semana_.pdb
+D:\psi\C#\Dias_semana_\Dias_semana_\obj\Debug\Dias_semana_.exe
+D:\psi\C#\Dias_semana_\Dias_semana_\obj\Debug\Dias_semana_.pdb

@@ -1,0 +1,7 @@
+D:\psi\C#\escalao\escalao\obj\Debug\escalao.csprojAssemblyReference.cache
+D:\psi\C#\escalao\escalao\obj\Debug\escalao.csproj.CoreCompileInputs.cache
+D:\psi\C#\escalao\escalao\bin\Debug\escalao.exe.config
+D:\psi\C#\escalao\escalao\bin\Debug\escalao.exe
+D:\psi\C#\escalao\escalao\bin\Debug\escalao.pdb
+D:\psi\C#\escalao\escalao\obj\Debug\escalao.exe
+D:\psi\C#\escalao\escalao\obj\Debug\escalao.pdb

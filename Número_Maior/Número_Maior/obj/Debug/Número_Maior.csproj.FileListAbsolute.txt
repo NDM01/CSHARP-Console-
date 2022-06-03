@@ -1,0 +1,7 @@
+D:\psi\C#\Número_Maior\Número_Maior\obj\Debug\Número_Maior.csprojAssemblyReference.cache
+D:\psi\C#\Número_Maior\Número_Maior\obj\Debug\Número_Maior.csproj.CoreCompileInputs.cache
+D:\psi\C#\Número_Maior\Número_Maior\bin\Debug\Número_Maior.exe.config
+D:\psi\C#\Número_Maior\Número_Maior\bin\Debug\Número_Maior.exe
+D:\psi\C#\Número_Maior\Número_Maior\bin\Debug\Número_Maior.pdb
+D:\psi\C#\Número_Maior\Número_Maior\obj\Debug\Número_Maior.exe
+D:\psi\C#\Número_Maior\Número_Maior\obj\Debug\Número_Maior.pdb

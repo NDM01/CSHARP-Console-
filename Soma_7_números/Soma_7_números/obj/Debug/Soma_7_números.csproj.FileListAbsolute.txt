@@ -1,0 +1,6 @@
+D:\psi\C#\Soma_7_números\Soma_7_números\obj\Debug\Soma_7_números.csproj.CoreCompileInputs.cache
+D:\psi\C#\Soma_7_números\Soma_7_números\bin\Debug\Soma_7_números.exe.config
+D:\psi\C#\Soma_7_números\Soma_7_números\bin\Debug\Soma_7_números.exe
+D:\psi\C#\Soma_7_números\Soma_7_números\bin\Debug\Soma_7_números.pdb
+D:\psi\C#\Soma_7_números\Soma_7_números\obj\Debug\Soma_7_números.exe
+D:\psi\C#\Soma_7_números\Soma_7_números\obj\Debug\Soma_7_números.pdb

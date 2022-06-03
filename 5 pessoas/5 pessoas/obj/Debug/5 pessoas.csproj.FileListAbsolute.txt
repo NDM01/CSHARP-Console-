@@ -1,0 +1,7 @@
+D:\psi\C#\5 pessoas\5 pessoas\obj\Debug\5 pessoas.csprojAssemblyReference.cache
+D:\psi\C#\5 pessoas\5 pessoas\obj\Debug\5 pessoas.csproj.CoreCompileInputs.cache
+D:\psi\C#\5 pessoas\5 pessoas\bin\Debug\5 pessoas.exe.config
+D:\psi\C#\5 pessoas\5 pessoas\bin\Debug\5 pessoas.exe
+D:\psi\C#\5 pessoas\5 pessoas\bin\Debug\5 pessoas.pdb
+D:\psi\C#\5 pessoas\5 pessoas\obj\Debug\5 pessoas.exe
+D:\psi\C#\5 pessoas\5 pessoas\obj\Debug\5 pessoas.pdb

@@ -1,0 +1,7 @@
+D:\psi\C#\exercicio preço\exercicio preço\bin\Debug\exercicio preço.exe.config
+D:\psi\C#\exercicio preço\exercicio preço\bin\Debug\exercicio preço.exe
+D:\psi\C#\exercicio preço\exercicio preço\bin\Debug\exercicio preço.pdb
+D:\psi\C#\exercicio preço\exercicio preço\obj\Debug\exercicio preço.csprojAssemblyReference.cache
+D:\psi\C#\exercicio preço\exercicio preço\obj\Debug\exercicio preço.csproj.CoreCompileInputs.cache
+D:\psi\C#\exercicio preço\exercicio preço\obj\Debug\exercicio preço.exe
+D:\psi\C#\exercicio preço\exercicio preço\obj\Debug\exercicio preço.pdb

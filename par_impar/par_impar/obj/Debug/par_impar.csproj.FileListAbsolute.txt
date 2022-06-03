@@ -1,0 +1,2 @@
+D:\_\psi\C#\par_impar\par_impar\bin\Debug\par_impar.exe.config
+F:\PSI\C# (Consola)\par_impar\par_impar\bin\Debug\par_impar.exe.config

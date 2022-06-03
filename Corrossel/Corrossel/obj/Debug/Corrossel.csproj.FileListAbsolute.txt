@@ -1,0 +1,7 @@
+D:\_\psi\C#\Corrossel\Corrossel\bin\Debug\Corrossel.exe.config
+D:\_\psi\C#\Corrossel\Corrossel\bin\Debug\Corrossel.exe
+D:\_\psi\C#\Corrossel\Corrossel\bin\Debug\Corrossel.pdb
+D:\_\psi\C#\Corrossel\Corrossel\obj\Debug\Corrossel.csprojAssemblyReference.cache
+D:\_\psi\C#\Corrossel\Corrossel\obj\Debug\Corrossel.csproj.CoreCompileInputs.cache
+D:\_\psi\C#\Corrossel\Corrossel\obj\Debug\Corrossel.exe
+D:\_\psi\C#\Corrossel\Corrossel\obj\Debug\Corrossel.pdb

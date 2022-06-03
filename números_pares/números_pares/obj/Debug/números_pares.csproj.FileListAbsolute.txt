@@ -1,0 +1,7 @@
+F:\psi\C#\números_pares\números_pares\obj\Debug\números_pares.csprojAssemblyReference.cache
+F:\psi\C#\números_pares\números_pares\obj\Debug\números_pares.csproj.CoreCompileInputs.cache
+F:\psi\C#\números_pares\números_pares\bin\Debug\números_pares.exe.config
+F:\psi\C#\números_pares\números_pares\bin\Debug\números_pares.exe
+F:\psi\C#\números_pares\números_pares\bin\Debug\números_pares.pdb
+F:\psi\C#\números_pares\números_pares\obj\Debug\números_pares.exe
+F:\psi\C#\números_pares\números_pares\obj\Debug\números_pares.pdb

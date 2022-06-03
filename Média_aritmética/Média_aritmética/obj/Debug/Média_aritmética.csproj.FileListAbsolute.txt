@@ -1,0 +1,6 @@
+D:\_\psi\C#\Média_aritmética\Média_aritmética\bin\Debug\Média_aritmética.exe.config
+D:\_\psi\C#\Média_aritmética\Média_aritmética\bin\Debug\Média_aritmética.exe
+D:\_\psi\C#\Média_aritmética\Média_aritmética\bin\Debug\Média_aritmética.pdb
+D:\_\psi\C#\Média_aritmética\Média_aritmética\obj\Debug\Média_aritmética.csprojResolveAssemblyReference.cache
+D:\_\psi\C#\Média_aritmética\Média_aritmética\obj\Debug\Média_aritmética.exe
+D:\_\psi\C#\Média_aritmética\Média_aritmética\obj\Debug\Média_aritmética.pdb

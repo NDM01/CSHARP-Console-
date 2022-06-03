@@ -1,0 +1,6 @@
+F:\_\PSI 11º12\sequencia\sequencia\bin\Debug\sequencia.exe.config
+F:\_\PSI 11º12\sequencia\sequencia\obj\Debug\sequencia.csprojResolveAssemblyReference.cache
+F:\_\PSI 11º12\sequencia\sequencia\bin\Debug\sequencia.exe
+F:\_\PSI 11º12\sequencia\sequencia\bin\Debug\sequencia.pdb
+F:\_\PSI 11º12\sequencia\sequencia\obj\Debug\sequencia.exe
+F:\_\PSI 11º12\sequencia\sequencia\obj\Debug\sequencia.pdb

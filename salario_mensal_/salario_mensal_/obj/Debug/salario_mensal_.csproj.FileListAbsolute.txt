@@ -1,0 +1,7 @@
+D:\psi\C#\salario_mensal_\salario_mensal_\obj\Debug\salario_mensal_.csprojAssemblyReference.cache
+D:\psi\C#\salario_mensal_\salario_mensal_\obj\Debug\salario_mensal_.csproj.CoreCompileInputs.cache
+D:\psi\C#\salario_mensal_\salario_mensal_\bin\Debug\salario_mensal_.exe.config
+D:\psi\C#\salario_mensal_\salario_mensal_\bin\Debug\salario_mensal_.exe
+D:\psi\C#\salario_mensal_\salario_mensal_\bin\Debug\salario_mensal_.pdb
+D:\psi\C#\salario_mensal_\salario_mensal_\obj\Debug\salario_mensal_.exe
+D:\psi\C#\salario_mensal_\salario_mensal_\obj\Debug\salario_mensal_.pdb

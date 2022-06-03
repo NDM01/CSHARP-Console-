@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "empancar o pc", "empancar o pc\empancar o pc.csproj", "{D6E2809C-CD80-47C1-946B-BA55988FFC43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6E2809C-CD80-47C1-946B-BA55988FFC43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6E2809C-CD80-47C1-946B-BA55988FFC43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6E2809C-CD80-47C1-946B-BA55988FFC43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6E2809C-CD80-47C1-946B-BA55988FFC43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {727B3B18-3E31-480D-82DF-7C19F26A9EAB}
+	EndGlobalSection
+EndGlobal

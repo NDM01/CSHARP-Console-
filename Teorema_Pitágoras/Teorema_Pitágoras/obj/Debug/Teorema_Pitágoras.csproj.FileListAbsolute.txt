@@ -1,0 +1,7 @@
+D:\_\psi\C#\Teorema_Pitágoras\Teorema_Pitágoras\bin\Debug\Teorema_Pitágoras.exe.config
+D:\_\psi\C#\Teorema_Pitágoras\Teorema_Pitágoras\bin\Debug\Teorema_Pitágoras.exe
+D:\_\psi\C#\Teorema_Pitágoras\Teorema_Pitágoras\bin\Debug\Teorema_Pitágoras.pdb
+D:\_\psi\C#\Teorema_Pitágoras\Teorema_Pitágoras\obj\Debug\Teorema_Pitágoras.csprojAssemblyReference.cache
+D:\_\psi\C#\Teorema_Pitágoras\Teorema_Pitágoras\obj\Debug\Teorema_Pitágoras.csproj.CoreCompileInputs.cache
+D:\_\psi\C#\Teorema_Pitágoras\Teorema_Pitágoras\obj\Debug\Teorema_Pitágoras.exe
+D:\_\psi\C#\Teorema_Pitágoras\Teorema_Pitágoras\obj\Debug\Teorema_Pitágoras.pdb

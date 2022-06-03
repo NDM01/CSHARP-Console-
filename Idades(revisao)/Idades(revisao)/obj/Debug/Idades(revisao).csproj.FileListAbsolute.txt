@@ -1,0 +1,7 @@
+D:\psi\C#\Idades(revisao)\Idades(revisao)\obj\Debug\Idades(revisao).csprojAssemblyReference.cache
+D:\psi\C#\Idades(revisao)\Idades(revisao)\obj\Debug\Idades(revisao).csproj.CoreCompileInputs.cache
+D:\psi\C#\Idades(revisao)\Idades(revisao)\bin\Debug\Idades(revisao).exe.config
+D:\psi\C#\Idades(revisao)\Idades(revisao)\bin\Debug\Idades(revisao).exe
+D:\psi\C#\Idades(revisao)\Idades(revisao)\bin\Debug\Idades(revisao).pdb
+D:\psi\C#\Idades(revisao)\Idades(revisao)\obj\Debug\Idades(revisao).exe
+D:\psi\C#\Idades(revisao)\Idades(revisao)\obj\Debug\Idades(revisao).pdb

@@ -1,0 +1,7 @@
+D:\psi\C#\Soma_5_numeros\Soma_5_numeros\bin\Debug\Soma_5_numeros.exe.config
+D:\psi\C#\Soma_5_numeros\Soma_5_numeros\bin\Debug\Soma_5_numeros.exe
+D:\psi\C#\Soma_5_numeros\Soma_5_numeros\bin\Debug\Soma_5_numeros.pdb
+D:\psi\C#\Soma_5_numeros\Soma_5_numeros\obj\Debug\Soma_5_numeros.csprojAssemblyReference.cache
+D:\psi\C#\Soma_5_numeros\Soma_5_numeros\obj\Debug\Soma_5_numeros.csproj.CoreCompileInputs.cache
+D:\psi\C#\Soma_5_numeros\Soma_5_numeros\obj\Debug\Soma_5_numeros.exe
+D:\psi\C#\Soma_5_numeros\Soma_5_numeros\obj\Debug\Soma_5_numeros.pdb

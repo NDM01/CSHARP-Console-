@@ -1,0 +1,1 @@
+D:\_\psi\C#\Soma 7 numeros\Soma 7 numeros\bin\Debug\Soma 7 numeros.exe.config

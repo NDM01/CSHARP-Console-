@@ -1,0 +1,23 @@
+D:\psi\C#\empancar o pc\empancar o pc\bin\Debug\empancar o pc.exe.config
+D:\psi\C#\empancar o pc\empancar o pc\bin\Debug\empancar o pc.exe
+D:\psi\C#\empancar o pc\empancar o pc\bin\Debug\empancar o pc.pdb
+D:\psi\C#\empancar o pc\empancar o pc\obj\Debug\empancar o pc.csprojAssemblyReference.cache
+D:\psi\C#\empancar o pc\empancar o pc\obj\Debug\empancar o pc.csproj.CoreCompileInputs.cache
+D:\psi\C#\empancar o pc\empancar o pc\obj\Debug\empancar o pc.exe
+D:\psi\C#\empancar o pc\empancar o pc\obj\Debug\empancar o pc.pdb
+F:\_\psi\C#\empancar o pc\empancar o pc\bin\Debug\empancar o pc.exe.config
+F:\_\psi\C#\empancar o pc\empancar o pc\obj\Debug\empancar o pc.exe
+F:\_\psi\C#\empancar o pc\empancar o pc\obj\Debug\empancar o pc.pdb
+E:\PSI\C# (Consola)\empancar o pc\empancar o pc\bin\Debug\empancar o pc.exe.config
+E:\PSI\C# (Consola)\empancar o pc\empancar o pc\bin\Debug\empancar o pc.exe
+E:\PSI\C# (Consola)\empancar o pc\empancar o pc\bin\Debug\empancar o pc.pdb
+E:\PSI\C# (Consola)\empancar o pc\empancar o pc\obj\Debug\empancar o pc.csproj.CoreCompileInputs.cache
+E:\PSI\C# (Consola)\empancar o pc\empancar o pc\obj\Debug\empancar o pc.exe
+E:\PSI\C# (Consola)\empancar o pc\empancar o pc\obj\Debug\empancar o pc.pdb
+D:\PSI\C# (Consola)\empancar o pc\empancar o pc\bin\Debug\empancar o pc.exe.config
+D:\PSI\C# (Consola)\empancar o pc\empancar o pc\bin\Debug\empancar o pc.exe
+D:\PSI\C# (Consola)\empancar o pc\empancar o pc\bin\Debug\empancar o pc.pdb
+D:\PSI\C# (Consola)\empancar o pc\empancar o pc\obj\Debug\empancar o pc.csprojAssemblyReference.cache
+D:\PSI\C# (Consola)\empancar o pc\empancar o pc\obj\Debug\empancar o pc.csproj.CoreCompileInputs.cache
+D:\PSI\C# (Consola)\empancar o pc\empancar o pc\obj\Debug\empancar o pc.exe
+D:\PSI\C# (Consola)\empancar o pc\empancar o pc\obj\Debug\empancar o pc.pdb

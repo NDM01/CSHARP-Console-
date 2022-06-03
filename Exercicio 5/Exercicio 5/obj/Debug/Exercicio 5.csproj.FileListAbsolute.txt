@@ -1,0 +1,7 @@
+D:\psi\C#\Exercicio 5\Exercicio 5\bin\Debug\Exercicio 5.exe.config
+D:\psi\C#\Exercicio 5\Exercicio 5\bin\Debug\Exercicio 5.exe
+D:\psi\C#\Exercicio 5\Exercicio 5\bin\Debug\Exercicio 5.pdb
+D:\psi\C#\Exercicio 5\Exercicio 5\obj\Debug\Exercicio 5.csprojAssemblyReference.cache
+D:\psi\C#\Exercicio 5\Exercicio 5\obj\Debug\Exercicio 5.csproj.CoreCompileInputs.cache
+D:\psi\C#\Exercicio 5\Exercicio 5\obj\Debug\Exercicio 5.exe
+D:\psi\C#\Exercicio 5\Exercicio 5\obj\Debug\Exercicio 5.pdb

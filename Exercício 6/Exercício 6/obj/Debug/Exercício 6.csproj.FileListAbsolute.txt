@@ -1,0 +1,7 @@
+D:\psi\C#\Exercício 6\Exercício 6\bin\Debug\Exercício 6.exe.config
+D:\psi\C#\Exercício 6\Exercício 6\bin\Debug\Exercício 6.exe
+D:\psi\C#\Exercício 6\Exercício 6\bin\Debug\Exercício 6.pdb
+D:\psi\C#\Exercício 6\Exercício 6\obj\Debug\Exercício 6.csprojAssemblyReference.cache
+D:\psi\C#\Exercício 6\Exercício 6\obj\Debug\Exercício 6.csproj.CoreCompileInputs.cache
+D:\psi\C#\Exercício 6\Exercício 6\obj\Debug\Exercício 6.exe
+D:\psi\C#\Exercício 6\Exercício 6\obj\Debug\Exercício 6.pdb

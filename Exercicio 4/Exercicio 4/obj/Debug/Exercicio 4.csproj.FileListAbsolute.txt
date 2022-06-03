@@ -1,0 +1,7 @@
+D:\psi\C#\Exercicio 4\Exercicio 4\bin\Debug\Exercicio 4.exe.config
+D:\psi\C#\Exercicio 4\Exercicio 4\bin\Debug\Exercicio 4.exe
+D:\psi\C#\Exercicio 4\Exercicio 4\bin\Debug\Exercicio 4.pdb
+D:\psi\C#\Exercicio 4\Exercicio 4\obj\Debug\Exercicio 4.csprojAssemblyReference.cache
+D:\psi\C#\Exercicio 4\Exercicio 4\obj\Debug\Exercicio 4.csproj.CoreCompileInputs.cache
+D:\psi\C#\Exercicio 4\Exercicio 4\obj\Debug\Exercicio 4.exe
+D:\psi\C#\Exercicio 4\Exercicio 4\obj\Debug\Exercicio 4.pdb

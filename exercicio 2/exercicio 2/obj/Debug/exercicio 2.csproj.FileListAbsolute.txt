@@ -1,0 +1,6 @@
+D:\psi\C#\exercicio 2\exercicio 2\bin\Debug\exercicio 2.exe.config
+D:\psi\C#\exercicio 2\exercicio 2\bin\Debug\exercicio 2.exe
+D:\psi\C#\exercicio 2\exercicio 2\bin\Debug\exercicio 2.pdb
+D:\psi\C#\exercicio 2\exercicio 2\obj\Debug\exercicio 2.csproj.CoreCompileInputs.cache
+D:\psi\C#\exercicio 2\exercicio 2\obj\Debug\exercicio 2.exe
+D:\psi\C#\exercicio 2\exercicio 2\obj\Debug\exercicio 2.pdb

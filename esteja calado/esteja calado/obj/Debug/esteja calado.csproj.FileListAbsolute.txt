@@ -1,0 +1,7 @@
+C:\Users\Utilizador\source\repos\esteja calado\esteja calado\bin\Debug\esteja calado.exe.config
+C:\Users\Utilizador\source\repos\esteja calado\esteja calado\bin\Debug\esteja calado.exe
+C:\Users\Utilizador\source\repos\esteja calado\esteja calado\bin\Debug\esteja calado.pdb
+C:\Users\Utilizador\source\repos\esteja calado\esteja calado\obj\Debug\esteja calado.csprojAssemblyReference.cache
+C:\Users\Utilizador\source\repos\esteja calado\esteja calado\obj\Debug\esteja calado.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\esteja calado\esteja calado\obj\Debug\esteja calado.exe
+C:\Users\Utilizador\source\repos\esteja calado\esteja calado\obj\Debug\esteja calado.pdb

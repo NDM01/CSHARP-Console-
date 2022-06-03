@@ -1,0 +1,7 @@
+F:\psi\C#\soma_números\soma_números\obj\Debug\soma_números.csprojAssemblyReference.cache
+F:\psi\C#\soma_números\soma_números\obj\Debug\soma_números.csproj.CoreCompileInputs.cache
+F:\psi\C#\soma_números\soma_números\bin\Debug\soma_números.exe.config
+F:\psi\C#\soma_números\soma_números\bin\Debug\soma_números.exe
+F:\psi\C#\soma_números\soma_números\bin\Debug\soma_números.pdb
+F:\psi\C#\soma_números\soma_números\obj\Debug\soma_números.exe
+F:\psi\C#\soma_números\soma_números\obj\Debug\soma_números.pdb

@@ -1,0 +1,6 @@
+D:\psi\C#\Volume\Volume\bin\Debug\Volume.exe.config
+D:\psi\C#\Volume\Volume\bin\Debug\Volume.exe
+D:\psi\C#\Volume\Volume\bin\Debug\Volume.pdb
+D:\psi\C#\Volume\Volume\obj\Debug\Volume.csproj.CoreCompileInputs.cache
+D:\psi\C#\Volume\Volume\obj\Debug\Volume.exe
+D:\psi\C#\Volume\Volume\obj\Debug\Volume.pdb

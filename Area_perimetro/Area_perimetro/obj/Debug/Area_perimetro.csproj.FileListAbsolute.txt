@@ -1,0 +1,6 @@
+D:\psi\C#\Area_perimetro\Area_perimetro\bin\Debug\Area_perimetro.exe.config
+D:\psi\C#\Area_perimetro\Area_perimetro\bin\Debug\Area_perimetro.exe
+D:\psi\C#\Area_perimetro\Area_perimetro\bin\Debug\Area_perimetro.pdb
+D:\psi\C#\Area_perimetro\Area_perimetro\obj\Debug\Area_perimetro.csproj.CoreCompileInputs.cache
+D:\psi\C#\Area_perimetro\Area_perimetro\obj\Debug\Area_perimetro.exe
+D:\psi\C#\Area_perimetro\Area_perimetro\obj\Debug\Area_perimetro.pdb

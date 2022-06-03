@@ -1,0 +1,6 @@
+F:\_\PSI 11º12\Pilhas\Pilhas\bin\Debug\Pilhas.exe.config
+F:\_\PSI 11º12\Pilhas\Pilhas\bin\Debug\Pilhas.exe
+F:\_\PSI 11º12\Pilhas\Pilhas\bin\Debug\Pilhas.pdb
+F:\_\PSI 11º12\Pilhas\Pilhas\obj\Debug\Pilhas.csprojResolveAssemblyReference.cache
+F:\_\PSI 11º12\Pilhas\Pilhas\obj\Debug\Pilhas.exe
+F:\_\PSI 11º12\Pilhas\Pilhas\obj\Debug\Pilhas.pdb

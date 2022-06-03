@@ -1,0 +1,7 @@
+D:\psi\C#\exercicioquadro 2\exercicioquadro 2\bin\Debug\exercicioquadro 2.exe.config
+D:\psi\C#\exercicioquadro 2\exercicioquadro 2\bin\Debug\exercicioquadro 2.exe
+D:\psi\C#\exercicioquadro 2\exercicioquadro 2\bin\Debug\exercicioquadro 2.pdb
+D:\psi\C#\exercicioquadro 2\exercicioquadro 2\obj\Debug\exercicioquadro 2.csprojAssemblyReference.cache
+D:\psi\C#\exercicioquadro 2\exercicioquadro 2\obj\Debug\exercicioquadro 2.csproj.CoreCompileInputs.cache
+D:\psi\C#\exercicioquadro 2\exercicioquadro 2\obj\Debug\exercicioquadro 2.exe
+D:\psi\C#\exercicioquadro 2\exercicioquadro 2\obj\Debug\exercicioquadro 2.pdb

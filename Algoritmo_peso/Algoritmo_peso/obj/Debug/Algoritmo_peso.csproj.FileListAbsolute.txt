@@ -1,0 +1,7 @@
+D:\psi\C#\Algoritmo_peso\Algoritmo_peso\bin\Debug\Algoritmo_peso.exe.config
+D:\psi\C#\Algoritmo_peso\Algoritmo_peso\bin\Debug\Algoritmo_peso.exe
+D:\psi\C#\Algoritmo_peso\Algoritmo_peso\bin\Debug\Algoritmo_peso.pdb
+D:\psi\C#\Algoritmo_peso\Algoritmo_peso\obj\Debug\Algoritmo_peso.csprojAssemblyReference.cache
+D:\psi\C#\Algoritmo_peso\Algoritmo_peso\obj\Debug\Algoritmo_peso.csproj.CoreCompileInputs.cache
+D:\psi\C#\Algoritmo_peso\Algoritmo_peso\obj\Debug\Algoritmo_peso.exe
+D:\psi\C#\Algoritmo_peso\Algoritmo_peso\obj\Debug\Algoritmo_peso.pdb

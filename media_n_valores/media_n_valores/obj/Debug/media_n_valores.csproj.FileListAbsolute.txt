@@ -1,0 +1,6 @@
+D:\psi\C#\media_n_valores\media_n_valores\bin\Debug\media_n_valores.exe.config
+D:\psi\C#\media_n_valores\media_n_valores\bin\Debug\media_n_valores.exe
+D:\psi\C#\media_n_valores\media_n_valores\bin\Debug\media_n_valores.pdb
+D:\psi\C#\media_n_valores\media_n_valores\obj\Debug\media_n_valores.csproj.CoreCompileInputs.cache
+D:\psi\C#\media_n_valores\media_n_valores\obj\Debug\media_n_valores.exe
+D:\psi\C#\media_n_valores\media_n_valores\obj\Debug\media_n_valores.pdb

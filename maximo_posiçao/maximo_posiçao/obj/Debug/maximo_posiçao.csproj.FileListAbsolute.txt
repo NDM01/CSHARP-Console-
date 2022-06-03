@@ -1,0 +1,6 @@
+D:\psi\C#\maximo_posiçao\maximo_posiçao\obj\Debug\maximo_posiçao.csproj.CoreCompileInputs.cache
+D:\psi\C#\maximo_posiçao\maximo_posiçao\bin\Debug\maximo_posiçao.exe.config
+D:\psi\C#\maximo_posiçao\maximo_posiçao\bin\Debug\maximo_posiçao.exe
+D:\psi\C#\maximo_posiçao\maximo_posiçao\bin\Debug\maximo_posiçao.pdb
+D:\psi\C#\maximo_posiçao\maximo_posiçao\obj\Debug\maximo_posiçao.exe
+D:\psi\C#\maximo_posiçao\maximo_posiçao\obj\Debug\maximo_posiçao.pdb

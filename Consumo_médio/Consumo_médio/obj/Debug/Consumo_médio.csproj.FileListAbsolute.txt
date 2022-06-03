@@ -1,0 +1,7 @@
+D:\psi\C#\Consumo_médio\Consumo_médio\bin\Debug\Consumo_médio.exe.config
+D:\psi\C#\Consumo_médio\Consumo_médio\bin\Debug\Consumo_médio.exe
+D:\psi\C#\Consumo_médio\Consumo_médio\bin\Debug\Consumo_médio.pdb
+D:\psi\C#\Consumo_médio\Consumo_médio\obj\Debug\Consumo_médio.csprojAssemblyReference.cache
+D:\psi\C#\Consumo_médio\Consumo_médio\obj\Debug\Consumo_médio.csproj.CoreCompileInputs.cache
+D:\psi\C#\Consumo_médio\Consumo_médio\obj\Debug\Consumo_médio.exe
+D:\psi\C#\Consumo_médio\Consumo_médio\obj\Debug\Consumo_médio.pdb

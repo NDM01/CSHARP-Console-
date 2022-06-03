@@ -1,0 +1,7 @@
+D:\_\psi\C#\numeros pares\numeros pares\bin\Debug\numeros pares.exe.config
+D:\_\psi\C#\numeros pares\numeros pares\bin\Debug\numeros pares.exe
+D:\_\psi\C#\numeros pares\numeros pares\bin\Debug\numeros pares.pdb
+D:\_\psi\C#\numeros pares\numeros pares\obj\Debug\numeros pares.csprojAssemblyReference.cache
+D:\_\psi\C#\numeros pares\numeros pares\obj\Debug\numeros pares.csproj.CoreCompileInputs.cache
+D:\_\psi\C#\numeros pares\numeros pares\obj\Debug\numeros pares.exe
+D:\_\psi\C#\numeros pares\numeros pares\obj\Debug\numeros pares.pdb

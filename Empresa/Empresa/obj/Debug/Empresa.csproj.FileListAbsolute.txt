@@ -1,0 +1,7 @@
+D:\_\psi\C#\Empresa\Empresa\bin\Debug\Empresa.exe.config
+D:\_\psi\C#\Empresa\Empresa\bin\Debug\Empresa.exe
+D:\_\psi\C#\Empresa\Empresa\bin\Debug\Empresa.pdb
+D:\_\psi\C#\Empresa\Empresa\obj\Debug\Empresa.csprojAssemblyReference.cache
+D:\_\psi\C#\Empresa\Empresa\obj\Debug\Empresa.csproj.CoreCompileInputs.cache
+D:\_\psi\C#\Empresa\Empresa\obj\Debug\Empresa.exe
+D:\_\psi\C#\Empresa\Empresa\obj\Debug\Empresa.pdb

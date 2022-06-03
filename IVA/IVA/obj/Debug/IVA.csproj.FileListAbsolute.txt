@@ -1,0 +1,6 @@
+D:\psi\C#\IVA\IVA\bin\Debug\IVA.exe.config
+D:\psi\C#\IVA\IVA\bin\Debug\IVA.exe
+D:\psi\C#\IVA\IVA\bin\Debug\IVA.pdb
+D:\psi\C#\IVA\IVA\obj\Debug\IVA.csproj.CoreCompileInputs.cache
+D:\psi\C#\IVA\IVA\obj\Debug\IVA.exe
+D:\psi\C#\IVA\IVA\obj\Debug\IVA.pdb
